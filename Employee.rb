@@ -12,3 +12,6 @@ class Employee
     end
 
 end
+
+a = Employee.new 1, 'An', 'dev'
+puts a.to_s
