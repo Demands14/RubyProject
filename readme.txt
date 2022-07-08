@@ -5,4 +5,4 @@ day la code o dev ,  moi chi commit
 finasl
 here is changing on remote
 from branch master local
-
+check pull
